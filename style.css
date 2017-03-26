@@ -1,0 +1,23 @@
+.plansza {
+    width: 1100px;
+    height: 400px;
+    position: relative;
+    background-color: blanchedalmond;
+}
+
+.moneta {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    background-color: rgba(255, 0, 0, 0.5);
+}
+
+.swinia {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 40px;
+    margin-left: -20px;
+    height: 30px;
+    background-color: deeppink;
+}
